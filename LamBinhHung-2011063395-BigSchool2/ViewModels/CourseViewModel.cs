@@ -27,5 +27,6 @@ namespace LamBinhHung_2011063395_BigSchool2.ViewModels
             return DateTime.Parse(string.Format("{0} {1}", Date, Time));
         }
 
+
     }
 }

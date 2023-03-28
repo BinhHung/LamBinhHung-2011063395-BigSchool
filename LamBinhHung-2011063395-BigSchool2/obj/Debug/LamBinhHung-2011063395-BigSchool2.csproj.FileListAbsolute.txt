@@ -111,3 +111,11 @@ D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchoo
 D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\obj\Debug\LamBinhHung_2011063395_BigSchool2.Migrations.CreateTableCourse.resources
 D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\obj\Debug\LamBinhHung_2011063395_BigSchool2.Migrations.PopulateCategoryTable.resources
 D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\obj\Debug\LamBinhHung_2011063395_BigSchool2.Migrations.AddNameColumnToApplicationUser.resources
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\obj\Debug\LamBinhHung_2011063395_BigSchool2.Migrations.AddAttendance.resources
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\bin\System.Net.Http.Formatting.dll
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\bin\System.Web.Http.dll
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\bin\System.Web.Http.WebHost.dll
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\bin\System.Net.Http.Formatting.xml
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\bin\System.Web.Http.xml
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\bin\System.Web.Http.WebHost.xml
+D:\TH-Web\Buoi3\LamBinhHung-2011063395-BigSchool\LamBinhHung-2011063395-BigSchool2\obj\Debug\LamBinhHung_2011063395_BigSchool2.Migrations.AddFollowingsTable.resources

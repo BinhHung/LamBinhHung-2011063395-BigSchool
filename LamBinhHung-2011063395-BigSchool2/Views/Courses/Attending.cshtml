@@ -1,6 +1,7 @@
 ﻿@model  LamBinhHung_2011063395_BigSchool2.ViewModels.CoursesViewModel
 @{
-    ViewBag.Title = "Home Page";
+    ViewBag.Title = "Attending";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 
@@ -30,11 +31,7 @@
                     <span class="category">
                         @course.Category.Name
                     </span>
-                    @if (Model.ShowAction)
-                    {
-                        <button data-course-id="@course.Id" class="btn btn-default btn-sm js-toggle-attendance">Going?</button>
-
-                    }
+                   
                 </div>
             </li>
         }
@@ -64,5 +61,5 @@
                 });
             });
         </script>
-        }
+    }
 </div>
